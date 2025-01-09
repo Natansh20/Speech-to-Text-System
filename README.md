@@ -1,11 +1,11 @@
 # Speech-to-Text-System
 
 Summarized Pipeline:
-1. Enter Audio File or Use Real-Time Speech Input
+* Enter Audio File or Use Real-Time Speech Input
   * Users can upload audio files or speak directly for transcription.
-2. Preprocess Audio
+* Preprocess Audio
   * Applies wavelet-based noise reduction and audio normalization for improved clarity.
-3. Transcribe Audio
+* Transcribe Audio
   * Uses OpenAI Whisper to convert spoken language into accurate text output.
 
 ### Detailed Pipeline (Including Rationales and Alternatives)
